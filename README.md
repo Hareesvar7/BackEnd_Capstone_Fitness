@@ -2,6 +2,9 @@
 A MERN-stack fitness tracker app.
 
 ## Table of Contents
+![Capture](https://github.com/Hareesvar7/BackEnd_Capstone_Fitness/assets/110599490/44da4ce4-1d10-4db5-baa0-7b8f9c72ca37)
+
+![Capture2](https://github.com/Hareesvar7/BackEnd_Capstone_Fitness/assets/110599490/fe37aeb4-4e04-4fd1-9eea-1b3baed6a119)
 
 - [Description](#description)
 - [Technology](#Technology)
